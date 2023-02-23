@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taskotale
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning js course on TOP
+- 🌱 I’m currently learning js course on TOP and started CS50!
 - 📫 How to reach me taskotale@gmail.com
 
 <!---
