@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taskotale
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning js course on TheOdinProject and started CS50!
+- 👀 I’m interested in becoming a software developer
+- 🌱 I’m currently finishing the js course on TheOdinProject and finished CS50!
 - 📫 How to reach me: taskotale@gmail.com
 
 <!---
